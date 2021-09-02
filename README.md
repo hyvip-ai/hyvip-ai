@@ -1,4 +1,4 @@
-### Hi there I am Bhaskar Sengupta👋
+### Hi there I am Rajat Mondal👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kudos-dot-com&label=Profile%20views&color=0e75b6&style=flat" alt="404 not found" /> </p>
 
