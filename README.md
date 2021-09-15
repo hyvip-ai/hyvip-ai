@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Socket.io**
 
-- 👨‍💻 All of my projects are available at [https://rajatmondalportfolio.netlify.app/](https://rajatmondalportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rajatmondalportfolio.netlify.app/)
 
 - 💬 Ask me about **React,Angular**
 
