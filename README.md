@@ -33,7 +33,6 @@
 - ⚡ Fun fact **C and Java is good, Python is better but JavaScript is the Best.**
 
 <br>
-<br>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
