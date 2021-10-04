@@ -55,4 +55,4 @@
   
   </p>
 </div>
-[![Rajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=hyvip-ai&theme=rogue)](https://github.com/hyvip-ai/github-readme-activity-graph)
+<img src="https://activity-graph.herokuapp.com/graph?username=hyvip-ai&theme=rogue" alt="graph"/>
