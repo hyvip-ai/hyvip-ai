@@ -49,7 +49,7 @@
 
   
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
+  <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyvip-ai&theme=radical" alt="Rajat Mondal GitHub Stats" /> <br/>
  
   
