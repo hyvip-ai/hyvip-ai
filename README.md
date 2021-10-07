@@ -48,11 +48,11 @@
 <div>
 
   
-  <p align="center">
+<!--   <p align="center">
   <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyvip-ai&theme=radical" alt="Rajat Mondal GitHub Stats" /> <br/>
  
   
-  </p>
+  </p> -->
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=hyvip-ai&theme=rogue" alt="graph"/>
