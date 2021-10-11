@@ -12,6 +12,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23FF6F00.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/angular%20-%23323330.svg?&style=for-the-badge&logo=Angular&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React%20-%23D00000.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 </p>
+<h1> A Fact 🔥</h1>
 <p align="center">
 <H3> I am one of those Javascript Fanboy but One thing you should know about JavaScript is </H3>
     <img height="200" width:"100" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>
