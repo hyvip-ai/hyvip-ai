@@ -7,9 +7,9 @@
 <h3 align = "center" >I am an Engineering Student, but who wants to know that cz thats boring. Whats Interesting is in this world full of humans and others I am One of those who sees what most of the people fail to see thats right I am A programmer.I like to draw and watching series otherwise you will find me making memes on programming.</h3>
 
 
-<p aling="center">   <img src="https://komarev.com/ghpvc/?username=hyvip-ai"> &nbsp; <img src="https://badges.pufler.dev/repos/hyvip-ai?style=flat-square&color=black&logo=github"/></p>
+<p align="center">   <img src="https://komarev.com/ghpvc/?username=hyvip-ai"> &nbsp; <img src="https://badges.pufler.dev/repos/hyvip-ai?style=flat-square&color=black&logo=github"/></p>
 
-<p aling="center">
+<p align="center">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23FF6F00.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/angular%20-%23323330.svg?&style=for-the-badge&logo=Angular&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React%20-%23D00000.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 </p>
 <p align="center">
