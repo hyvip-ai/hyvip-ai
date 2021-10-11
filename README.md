@@ -2,18 +2,23 @@
     <img width="33%" src="https://github.com/kiranjolisa/kiranjolisa/raw/main/code.gif?raw=true">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rajat Mondal, A passionate Full Stack developer from India</h1>
+<h1 align="center">Hi 👋, I'm &#60;Rajat/&#62; , A &#60;app-passionate&#62;&#60;/app-passionate&#62; Full Stack developer from India</h1>
 
-<h3 align = "center" >I'm an Engineering student with great interest in programming and technologies I like solving problems and challenegs through programming.Drawing is one of my hobbies also I am a MEAN/MERN developer.Currently I'm looking for internships for showcasing my knowledge and also working with other people.</h3>
+<h3 align = "center" >I am an Engineering Student, but who wants to know that cz thats boring. Whats Interesting is in this world full of humans and others I am One of those who sees what most of the people fail to see thats right I am A programmer.I like to draw and watching series otherwise you will find me making memes on programming.</h3>
 
 
-<p align="center">   <img src="https://komarev.com/ghpvc/?username=hyvip-ai"> &nbsp; <img src="https://badges.pufler.dev/repos/hyvip-ai?style=flat-square&color=black&logo=github"/></p>
+<p aling="center">   <img src="https://komarev.com/ghpvc/?username=hyvip-ai"> &nbsp; <img src="https://badges.pufler.dev/repos/hyvip-ai?style=flat-square&color=black&logo=github"/></p>
 
-<p align="center">
+<p aling="center">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23FF6F00.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/angular%20-%23323330.svg?&style=for-the-badge&logo=Angular&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React%20-%23D00000.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 </p>
+<p align="center">
+<H3> I am one of those Javascript Fanboy but One thing you should know about JavaScript is </H3>
+    <img height="200" width:"100" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>
+   <H1> JavaScript is a BI*CH </H1>
+</p>
 <br>
-<h1>About Me 🙋</h1>
+<h1>🙋 some things about Me (Though You are Not Interested)</h1>
 <br>
 
 - 🔭 I’m currently working on **MEAN Stack**
