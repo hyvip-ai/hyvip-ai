@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm &#60;Rajat/&#62; , A &#60;app-passionate&#62;&#60;/app-passionate&#62; Full Stack developer from India</h1>
 
-<h3 align = "center" >I am an Engineering Student, but who wants to know that cz thats boring. Whats Interesting is in this world full of humans and others I am One of those who sees what most of the people fail to see thats right I am A programmer.I like to draw and watching series otherwise you will find me making memes on programming.</h3>
+<h3 align = "center" >I am an Engineering Student, but who wants to know that cz thats boring. Whats Interesting is in this world full of humans and others I am One of those who sees what most of the people fail to see thats right I am A programmer.I like to draw and watch series otherwise you will find me making memes on programming.</h3>
 
 
 <p align="center">   <img src="https://komarev.com/ghpvc/?username=hyvip-ai"> &nbsp; <img src="https://badges.pufler.dev/repos/hyvip-ai?style=flat-square&color=black&logo=github"/></p>
