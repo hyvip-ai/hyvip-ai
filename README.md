@@ -44,7 +44,7 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## One Fascinating Thing About Me
+## One Fascinating Thing About Me  😜 
 
 #### I Try to Do this
 
