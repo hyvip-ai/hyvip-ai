@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/kiranjolisa/kiranjolisa/raw/main/code.gif?raw=true">
+    <img width="80%" src="https://github.com/kiranjolisa/kiranjolisa/raw/main/code.gif?raw=true">
 </p>
 
 <h1 align="center">Hi 👋, I'm &#60;Rajat/&#62; , A &#60;app-passionate&#62;&#60;/app-passionate&#62; Full Stack developer from India</h1>
