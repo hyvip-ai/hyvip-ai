@@ -14,9 +14,10 @@
 </p>
 <h1> A Fact 🔥</h1>
 <p align="center">
-<H3> I am one of those Javascript Fanboy but One thing you should know about JavaScript is </H3>
+<H3> I am one of those Javascript Fanboy but One thing you should know about JavaScript is :</H3>
+    <H3> JavaScript is a BI*CH </H3>
     <img height="200" width:"100" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>
-   <H1> JavaScript is a BI*CH </H1>
+   
 </p>
 <br>
 <h1>🙋 some things about Me (Though You are Not Interested)</h1>
