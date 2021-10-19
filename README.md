@@ -141,17 +141,16 @@
 </p>
 <br><br>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=u-barnwal&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hyvip-ai&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
 </a>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-barnwal&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
+<a href="#" style="margin-bottom:15px">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyvip-ai&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
 </a>
-<br>
-<div>
 
-</div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=hyvip-ai&theme=rogue" alt="graph"/>
+
+
+<img style="margin-top:15px" src="https://activity-graph.herokuapp.com/graph?username=hyvip-ai&theme=rogue" alt="graph"/>
 
 <h5 align="center">Made with ❤️ by Me (probably)</h5>
