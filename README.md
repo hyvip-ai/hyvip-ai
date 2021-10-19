@@ -7,7 +7,10 @@
 <h4 align = "center" >I am an Engineering Student, but who wants to know that cz thats boring. Whats Interesting is in this world full of humans and others I am One of those who sees what most of the people fail to see thats right I am A programmer.I like to draw and watch series otherwise you will find me making memes on programming.</h4>
 
 
-<p align="center">   <img src="https://komarev.com/ghpvc/?username=hyvip-ai"> &nbsp; <img src="https://badges.pufler.dev/repos/hyvip-ai?style=flat-square&color=black&logo=github"/></p>
+<p align="center">   
+    <img src="https://komarev.com/ghpvc/?username=hyvip-ai"> &nbsp; 
+    <img src="https://badges.pufler.dev/repos/hyvip-ai?style=flat-square&color=black&logo=github"/>
+</p>
 
 <p align="center">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -35,7 +38,7 @@
 <br>
 
 
-<h1>🙋 some things about Me </h1>
+<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> some things about Me </h1>
 <br>
 
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
