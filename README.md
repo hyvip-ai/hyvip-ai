@@ -155,3 +155,5 @@
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=hyvip-ai&theme=rogue" alt="graph"/>
+
+<h5 align="center">Made with ❤️ by Me (probably)</h5>
