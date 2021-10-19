@@ -140,15 +140,13 @@
 </a> 
 </p>
 <br><br>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=u-barnwal&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
+</a>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyvip-ai&show_icons=true&locale=en&layout=compact&theme=radical" alt="hyvip-ai" />
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyvip-ai&show_icons=true&locale=en&theme=radical" alt="hyvip-ai" />
-</p>
-
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-barnwal&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
+</a>
 <br>
 <div>
 
