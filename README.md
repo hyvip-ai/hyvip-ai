@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/kiranjolisa/kiranjolisa/raw/main/code.gif?raw=true">
+    <img width="300" src="https://github.com/kiranjolisa/kiranjolisa/raw/main/code.gif?raw=true">
 </p>
 
 <h1 align="center">Hi 👋, I'm &#60;Rajat/&#62; , A &#60;app-passionate&#62;&#60;/app-passionate&#62; Full Stack developer from India</h1>
@@ -15,7 +15,8 @@
 <h1> A Fact 🔥</h1>
 <p align="center">
 <H3> I am one of those Javascript Fanboy but One thing you should know about JavaScript is :</H3>
-    <H3> JavaScript is a BI*CH </H3>
+    <H3> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it. </H3>
+    <H3> - Douglas Crockford</H3>
     <img height="200" width:"100" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>
    
 </p>
