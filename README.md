@@ -4,7 +4,7 @@
 <H1> 👨‍💻 Profile </H1>
 <h3 align="center">Hi 👋, I'm &#60;Rajat/&#62; , A &#60;app-passionate&#62;&#60;/app-passionate&#62; Full Stack developer from India</h3>
 
-<h4 align = "center" >I am currrently pursuing my B.Tech in Electronics and Communication.I COnsider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.I like to draw and watch series otherwise you will find me making memes on programming.</h4>
+<h4 align = "center" >I am currrently pursuing my B.Tech in Electronics and Communication.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.I like to draw and watch series otherwise you will find me making memes on programming.</h4>
 
 
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
