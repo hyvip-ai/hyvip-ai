@@ -29,7 +29,7 @@
 <H3> I am a die hard Javascript Fanboy and One thing you should know about JavaScript is :</H3>
  <H5> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.  - Douglas Crockford</H5>
 
- <img height="200" width:"100" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
+ <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
 </p>
 
 
@@ -39,22 +39,23 @@
     <img width="50%" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p> -->
 
-## 😂 Let's Put a Smile on That Face !!!
+### 😂 Let's Put a Smile on That Face !!!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## One Fascinating Thing About Me  😜 
-<a href="#">
+### Pictorial Representation of What I try to do and What I end Up Doing  😜 
 
-#### I Try to Do this
+<a href="#" >
 
-<img aling="left" width="200" src="https://res.cloudinary.com/teepublic/image/private/s--aiYJ24GC--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1601159955/production/designs/14425234_0.jpg"/>
+
+
+<img aling="left" width="200" src="https://res.cloudinary.com/teepublic/image/private/s--aiYJ24GC--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1601159955/production/designs/14425234_0.jpg" width="40%"/>
 </a>
 
-<a href="#">
+<a href="#" >
     
-#### But end Up Doing this
+
     
-<img aling="right" width="200" src="https://res.cloudinary.com/teepublic/image/private/s--S-CjpHnH--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1593022127/production/designs/11641196_0.jpg"/>
+<img aling="right" width="200" src="https://res.cloudinary.com/teepublic/image/private/s--S-CjpHnH--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1593022127/production/designs/11641196_0.jpg" width="40%"/>
 </a>
 
 ## ⚡ TechStack
