@@ -11,7 +11,7 @@
 
  - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://rajatmondalportfolio.vercel.app/)
 
- - 💬 &nbsp; Ask me about **React, Angular, Svelte**
+ - 💬 &nbsp; Ask me about **React, Angular, Svelte, Next.js**
 
  - 📫 &nbsp; How to reach me **rm2932002@gmail.com**
 
