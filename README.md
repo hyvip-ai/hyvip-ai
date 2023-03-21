@@ -2,7 +2,7 @@
         <img width="70%" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
 
-Hi 👋, I'm **&#60;Rajat/&#62**; , A **&#60;code-passionate&#62;&#60;/code-passionate&#62;** Full Stack developer from India.
+Hi 👋, I'm **&#60;Rajat/&#62;** , A **&#60;code-passionate&#62;&#60;/code-passionate&#62;** Full Stack developer from India.
 I fell in love with Web Development 2 years ago, and till now I am madly in love. 
 
 **If you need a web developer** hire me [=>Portfolio](https://rajatmondalportfolio.vercel.app/)
